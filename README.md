@@ -1,54 +1,108 @@
 <h1 align="center">Hi 👋, I'm Jagadeesh</h1>
-<h3 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=web3+Fullstack+Developer;Open+Source+Contributor;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
-</h3>
-
-<img align="right" alt="Coding" height="250" width="250" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/main/portfolio.png">
-
-- 👯 I’m looking to collaborate with **New things**
-
-- 🌱 I’m currently pursing **B.tech**
-
-- 💻 Connect with me on [https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/](https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/)
-
-- 📫 Reach me on **podamekalajagadeesh@gmail.com**
-
-- 👨‍💻 All of my projects are available at **https://github.com/podamekalajagadeesh8**
-
-## Connect With Me:
-<p align="left">
-<a href="https://www.linkedin.com/in/jagadeesh-p-b8b5012b0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agadeesh-p-b8b5012b0" height="30" width="40" /></a><a href="https://leetcode.com/podamekalajagadeesh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Npodamekalajagadeesh/" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/podamekalajagad1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/podamekalajagad1" height="30" width="40" /></a><a href="https://twitter.com/jagadeeshls" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jagadeeshls" height="30" width="40" /></a><a href="https://www.instagram.com/j.shz8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/j.shz8" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100022489606274" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100022489606274" height="30" width="40" /></a>
-</p>
-
-## Languages And Tools:
-
-<p align="center"> <a href="https://github.com/podamekalajagadeesh8"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,linkedin"> </a> </p>
-
-## Most Used Languages:
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=podamekalajagadeesh8&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="podamekalajagadeesh8" />
-</p>
-
-
-## My Status:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=podamekalajagadeesh8&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-
-## Activity On GitHub:
+<h3 align="center">Web3 Developer | Building 100+ Blockchain Projects 🚀</h3>
 
 <p align="center">
-  <a href="https://github.com/podamekalajagadeesh8"> 
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=podamekalajagadeesh8&count_private=true&theme=dark&border_radius=10&stroke=f53b3b" alt="streak stats"/>
-
-
-</a> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello,+I'm+Jagadeesh!;Web3+Developer+%7C+Solidity+%7C+Blockchain;Building+100%2B+Web3+Projects+%F0%9F%9A%80;Creating+JZS%3A+Next-Gen+Social+Media+%F0%9F%94%A5" />
 </p>
 
+```
+       _       _     _     
+      | |     (_)   | |    
+      | |      _  __| | ___ 
+      | |     | |/ _` |/ _ \
+      | |____ | | (_| |  __/
+      |______||_|\__,_|\___|
+```
 
-## My Contributions:
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Podamekalajagadeesh8/Podamekalajagadeesh8/output/github-contribution-grid-snake-dark.svg" />
-</div>
+---
 
+## 🚀 About Me  
+✨ Passionate **Web3 Developer** building **100+ projects**  
+💡 Currently working on **JZS - Web3 Social Media Platform**  
+🛠️ Exploring **Solidity, Smart Contracts, Web3.js, Hardhat**  
+⚡ Love building **DApps, DeFi, NFTs, DAOs**  
+📫 Reach me: **[Your Email/Twitter/LinkedIn]**  
+
+---
+
+## 🛠️ Tech Stack & Tools  
+
+### 🔹 Languages & Frameworks  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,javascript,react,nodejs,html,css,cpp" />
+</p>
+
+### 🔹 Blockchain & Web3  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ethereum,metamask,hardhat,web3" />
+</p>
+
+### 🔹 Tools & Platforms  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=podamekalajagadeesh&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=podamekalajagadeesh&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=podamekalajagadeesh&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+🦊 **Ethereum Wallet**  
+🔗 [GitHub Repo](https://github.com/podamekalajagadeesh/ethereum-wallet) - A Web3 wallet using MetaMask & Web3.js  
+
+✅ **Decentralized To-Do List**  
+🔗 [GitHub Repo](https://github.com/podamekalajagadeesh/dapp-todo) - Store tasks on blockchain  
+
+🎨 **NFT Minting Platform**  
+🔗 [GitHub Repo](https://github.com/podamekalajagadeesh/nft-minter) - Deploy & mint ERC-721 NFTs  
+
+---
+
+## 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🔥 Fun Animation  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600">
+</p>
+
+---
+
+## 💡 Fun Fact  
+> "The best way to learn Web3 is by building! 🚀"
+
+---
+
+## 👀 Visitors  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=podamekalajagadeesh&label=Profile+Views&color=blue&style=plastic"/>
+</p>
+
+---
