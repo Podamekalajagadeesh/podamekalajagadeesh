@@ -22,25 +22,25 @@
 
 ## Languages And Tools:
 
-<p align="center"> <a href="https://github.com/podamekalajagadeesh8"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,linkedin"> </a> </p>
+<p align="center"> <a href="https://github.com/podamekalajagadeesh"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,linkedin"> </a> </p>
 
 ## Most Used Languages:
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=podamekalajagadeesh8&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="podamekalajagadeesh8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=podamekalajagadeesh&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="podamekalajagadeesh" />
 </p>
 
 
 ## My Status:
 <p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=podamekalajagadeesh8&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=podamekalajagadeesh&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
 
 ## Activity On GitHub:
 
 <p align="center">
-  <a href="https://github.com/podamekalajagadeesh8"> 
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=podamekalajagadeesh8&count_private=true&theme=dark&border_radius=10&stroke=f53b3b" alt="streak stats"/>
+  <a href="https://github.com/podamekalajagadeesh"> 
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=podamekalajagadeesh&count_private=true&theme=dark&border_radius=10&stroke=f53b3b" alt="streak stats"/>
 
 
 </a> 
@@ -49,6 +49,6 @@
 
 ## My Contributions:
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Podamekalajagadeesh8/Podamekalajagadeesh8/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/<podamekalajagadeesh>/<podamekalajagadeesh>/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
