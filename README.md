@@ -1,73 +1,54 @@
-# Podamekalajagadeesh's GitHub Profile
+<h1 align="center">Hi 👋, I'm Jagadeesh</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=web3+Fullstack+Developer;Open+Source+Contributor;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
+</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Podamekalajagadeesh&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img align="right" alt="Coding" height="250" width="250" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/main/portfolio.png">
+
+- 👯 I’m looking to collaborate with **New things**
+
+- 🌱 I’m currently pursing **B.tech**
+
+- 💻 Connect with me on [https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/](https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/)
+
+- 📫 Reach me on **podamekalajagadeesh@gmail.com**
+
+- 👨‍💻 All of my projects are available at **https://github.com/podamekalajagadeesh8**
+
+## Connect With Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/jagadeesh-p-b8b5012b0" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/agadeesh-p-b8b5012b0" height="30" width="40" /></a><a href="https://leetcode.com/podamekalajagadeesh/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Npodamekalajagadeesh/" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/podamekalajagad1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/podamekalajagad1" height="30" width="40" /></a><a href="https://twitter.com/jagadeeshls" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jagadeeshls" height="30" width="40" /></a><a href="https://www.instagram.com/j.shz8" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/j.shz8" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100022489606274" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100022489606274" height="30" width="40" /></a>
 </p>
 
+## Languages And Tools:
+
+<p align="center"> <a href="https://github.com/podamekalajagadeesh8"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,linkedin"> </a> </p>
+
+## Most Used Languages:
 <p align="center">
-  <a href="https://github.com/Podamekalajagadeesh">
-    <img src="https://komarev.com/ghpvc/?username=Podamekalajagadeesh&color=00bfff" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/Podamekalajagadeesh?tab=followers">
-    <img src="https://img.shields.io/github/followers/Podamekalajagadeesh?style=social" alt="Followers" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=podamekalajagadeesh8&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="podamekalajagadeesh8" />
 </p>
 
-## About Me
 
+## My Status:
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7GcLqk/giphy.gif" width="200" alt="Hello GIF" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=podamekalajagadeesh8&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
 
-Hello! I'm Podamekalajagadeesh, a passionate developer and problem solver. I love exploring new technologies and building innovative solutions. When I'm not coding, you can find me reading books, playing video games, or enjoying a good cup of coffee.
 
-## Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-</p>
-
-## Projects
-
-- **Project 1**: [Project 1 Description](https://github.com/Podamekalajagadeesh/project1)
-- **Project 2**: [Project 2 Description](https://github.com/Podamekalajagadeesh/project2)
-- **Project 3**: [Project 3 Description](https://github.com/Podamekalajagadeesh/project3)
-
-## Contact Me
+## Activity On GitHub:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/podamekalajagadeesh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:podamekalajagadeesh@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  <a href="https://github.com/podamekalajagadeesh8"> 
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=podamekalajagadeesh8&count_private=true&theme=dark&border_radius=10&stroke=f53b3b" alt="streak stats"/>
+
+
+</a> 
 </p>
 
-## Fun Facts
 
-- I've been coding since I was 12 years old.
-- I once built a robot that could solve a Rubik's Cube in under a minute.
-- My favorite programming language is JavaScript because of its versatility.
+## My Contributions:
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Podamekalajagadeesh8/Podamekalajagadeesh8/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKS8jZmZU7hjGqk/giphy.gif" width="200" alt="Fun GIF" />
-</p>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Podamekalajagadeesh&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Podamekalajagadeesh&theme=radical" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Podamekalajagadeesh&theme=react-dark" alt="Activity Graph" />
-</p>
