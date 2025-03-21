@@ -13,7 +13,7 @@
 
 - 📫 Reach me on **podamekalajagadeesh@gmail.com**
 
-- 👨‍💻 All of my projects are available at **https://github.com/podamekalajagadeesh8**
+- 👨‍💻 All of my projects are available at **https://github.com/podamekalajagadeesh**
 
 ## Connect With Me:
 <p align="left">
