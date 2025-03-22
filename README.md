@@ -22,7 +22,7 @@
 
 ## Languages And Tools:
 
-<p align="center"> <a href="https://github.com/podamekalajagadeesh"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,mac,linkedin"> </a> </p>
+<p align="center"> <a href="https://github.com/podamekalajagadeesh"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,linkedin"> </a> </p>
 
 ## Most Used Languages:
 <p align="center">
@@ -30,7 +30,7 @@
 </p>
 
 
-## My Status:
+## My Status in profile:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=podamekalajagadeesh&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
 </p>
