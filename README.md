@@ -22,7 +22,7 @@
 
 ## Languages And Tools:
 
-<p align="center"> <a href="https://github.com/podamekalajagadeesh"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,linkedin"> </a> </p>
+<p align="center"> <a href="https://github.com/podamekalajagadeesh"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,solidity,bootstrap,tailwindcss,nodejs,express,mongodb,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,mac,linkedin"> </a> </p>
 
 ## Most Used Languages:
 <p align="center">
