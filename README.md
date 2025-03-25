@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate with **New things**
 
-- 🌱 I’m currently pursing **B.tech**
+- 🌱 I’m currently pursing **B.tech in VEMU**
 
 - 💻 Connect with me on [https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/](https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/)
 
