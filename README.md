@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently pursing **B.tech in VEMU**
 
-- 💻 Connect with me on [https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/](https://www.linkedin.com/in/jagadeesh-p-b8b5012b0/)
+- 💻 Connect with me on [https://www.linkedin.com/in/podamekalajagadeesh/](https://www.linkedin.com/in/podamekalajagadeesh/)
+
 
 - 📫 Reach me on **podamekalajagadeesh@gmail.com**
 
