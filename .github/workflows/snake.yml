@@ -1,5 +1,8 @@
 name: Generate Snake SVG
 
+permissions:
+  contents: write   # 👈 this line allows pushing to branches
+
 on:
   schedule:
     - cron: "0 */12 * * *"  # every 12 hours
